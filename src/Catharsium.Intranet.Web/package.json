@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "name": "AngularJS101",
+  "private": true,
+  "devDependencies": {
+    "grunt": "",
+    "grunt-contrib-watch": ""
+  }
+}
